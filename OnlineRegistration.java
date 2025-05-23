@@ -11,7 +11,7 @@ class Course {
 }
 
 class Student {
-    String name = "Ravi";
+    String name = "darshan";
     String program = "BCA";
     int semester = 4;
 
